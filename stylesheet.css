@@ -54,7 +54,7 @@ body{
   }
   
   .dropdown {
-    background-color: rgb(218, 218, 218));
+    background-color: rgb(218, 218, 218);
     padding: 1em 0;
     position: absolute; /*WITH RESPECT TO PARENT*/
     display: none;
@@ -151,7 +151,8 @@ input[type=checkbox] {
     padding: 15px;
     border: 0.8px;
     border-radius: 15px;
-    background-color: rgb(218, 218, 218);
+    background-color: rgb(156, 84, 2);
+    color: white;
 }
 #login-btn:hover{
     transform: scale(1.1);
